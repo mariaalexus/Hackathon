@@ -362,4 +362,9 @@ input[type=submit]:hover {
       width: 250px;
       margin: 0 auto;
     }
+
+    .mariaimage {
+        width: 300px;
+        height: 300px
+    }
   }
